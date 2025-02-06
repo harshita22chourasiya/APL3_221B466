@@ -1,3 +1,3 @@
-public class Duryodhan extends Kaurav{
+public class Duryodhan extends Kauravs{
   
 }

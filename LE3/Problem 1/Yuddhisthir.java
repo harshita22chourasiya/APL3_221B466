@@ -1,3 +1,3 @@
-public class Yuddhisthir extends Pandvas{
+public class Yuddhisthir extends Pandavs{
     
 }

@@ -1,3 +1,3 @@
-public class Nakul extends Pandvas{
+public class Nakul extends Pandavs{
     
 }
